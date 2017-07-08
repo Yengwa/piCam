@@ -1,0 +1,6 @@
+sudo nano /etc/crtmpserver/applications/flvplayback.lua
+
+validateHandshake=false,
+keyframeSeek=false,
+seekGranularity=0.1,
+clientSideBuffer=30,
